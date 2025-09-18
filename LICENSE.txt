@@ -1,0 +1,27 @@
+This project is licensed under **non-commercial terms**, due to the incorporation of code from both the EDM and StyleGAN2 projects developed by NVIDIA.
+
+You may NOT use this work for commercial purposes.  
+If you remix, transform, or build upon the material, you must distribute your contributions under the same non-commercial terms and include proper attribution.
+
+This project includes and modifies code from the following works:
+
+---
+
+- **EDM (Elucidated Diffusion Models)**  
+  Copyright (c) 2022, NVIDIA CORPORATION & AFFILIATES  
+  Licensed under: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
+  Source: [https://github.com/NVlabs/edm](https://github.com/NVlabs/edm)  
+  Full license text: [https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+- **StyleGAN2**  
+  Copyright (c) 2019, NVIDIA CORPORATION  
+  Licensed under: Nvidia Source Code License - Non-Commercial  
+  Source: [https://github.com/NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)
+
+---
+
+As a result, the entire contents of this repository are provided **for non-commercial research and educational use only**.
+
+Commercial use, including internal use within a for-profit organization, is strictly prohibited.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
